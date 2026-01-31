@@ -1,0 +1,1 @@
+A landing page is an ideal beginner web development project built using HTML and CSS. It helps learners understand how to structure web pages by creating sections, columns, headers, and footers. This project encourages creativity while focusing on proper alignment, spacing, color selection, and layout design, resulting in a clean, visually appealing, and user-friendly webpage.
